@@ -1,0 +1,27 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=51549:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\easto\IdeaProjects\Odds'd\out\production\Odds'd Main
+Scenario 1: Expected result is 50%
+Count of True: 50040
+Count of False: 49960
+Condition reached 50.04%
+
+Scenario 2: Expected result is 70%
+Count of True: 70037
+Count of False: 29963
+Condition reached 70.037%
+
+Scenario 3: Expected result is 25%
+Count of True: 24967
+Count of False: 75033
+Condition reached 24.967%
+
+Scenario 4: Expected result is 5.6%
+Count of True: 5583
+Count of False: 94417
+Condition reached 5.583%
+
+Scenario 5: Expected result is 27.8%
+Count of True: 27922
+Count of False: 72078
+Condition reached 27.922%
+
+Process finished with exit code 0
